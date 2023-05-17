@@ -4,6 +4,8 @@
     <option name="state">
       <map>
         <entry key="file://$PROJECT_DIR$/web/ch01-launch/s03_script.jsp" value="file://$PROJECT_DIR$/web/ch01-launch" />
+        <entry key="file://$PROJECT_DIR$/web/ch02-nestedObject/s18_orderForm.jsp" value="file://$PROJECT_DIR$/web/ch02-nestedObject" />
+        <entry key="file://$PROJECT_DIR$/web/ch06-cookie/viewCookies.jsp" value="file://$PROJECT_DIR$/web/ch06-cookie" />
       </map>
     </option>
   </component>
