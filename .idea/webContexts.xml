@@ -6,6 +6,8 @@
         <entry key="file://$PROJECT_DIR$/web/ch01-launch/s03_script.jsp" value="file://$PROJECT_DIR$/web/ch01-launch" />
         <entry key="file://$PROJECT_DIR$/web/ch02-nestedObject/s18_orderForm.jsp" value="file://$PROJECT_DIR$/web/ch02-nestedObject" />
         <entry key="file://$PROJECT_DIR$/web/ch06-cookie/viewCookies.jsp" value="file://$PROJECT_DIR$/web/ch06-cookie" />
+        <entry key="file://$PROJECT_DIR$/web/ch10-jdbc2/insertTest.jsp" value="file://$PROJECT_DIR$/web/ch10-jdbc2" />
+        <entry key="file://$PROJECT_DIR$/web/ch10-jdbc2/selectTest.jsp" value="file://$PROJECT_DIR$/web/ch10-jdbc2" />
       </map>
     </option>
   </component>

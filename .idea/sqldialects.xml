@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/web/ch09-jdbc/s03_insertTest.jsp" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/web/ch09-jdbc/table.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/web/ch10-jdbc2/insertTest.jsp" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/web/ch10-jdbc2/table.sql" dialect="GenericSQL" />
+  </component>
+</project>
