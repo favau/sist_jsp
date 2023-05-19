@@ -1,22 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>jQuery를 이용한 비동기통신 구현</title>
-  <script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
-  <script type="text/javascript">
-    $(function(){
-      //데이터를 서버로 전송하고 텍스트를 전달 받
-      $.ajax({
-        url:'myParam.jsp',//요청 URL
-        data:{name:'홍길동',age:21}, //서버쪽에 전송할 데이터
-        success:function(param){
-          //서버로부터 전송받은 데이터를 body에 추가
-          $('body').append(param);
-        }
-      });
-    });
-  </script>
+<meta charset="UTF-8">
+<title>jQuery를 이용한 비동기 통신 구현</title>
+<script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+	$(function(){
+		//데이터를 서버로 전송하고 텍스트를 전달 받음
+		$.ajax({
+			url:'myParam.jsp',//요청URL
+			data:{name:'홍길동',age:21},//서버쪽에 전송할 데이터
+			success:function(param){
+				//서버로부터 전송받은 데이터를 body에 추가
+				$('body').append(param);
+			}
+		});
+	});
+</script>
 </head>
 <body>
 
